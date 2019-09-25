@@ -94,7 +94,28 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
+**[Algorithms [file](FidgetCube.js)**]
+
+### v0.3
+
 **[etc.]**
+
+### v0.4
+
+**[etc.]**
+
+### v0.5
+
+**[etc.]**
+
+### v0.6
+
+**[etc.]**
+
+### v0.7
+
+**[etc.]**
+
 
 ## Designs
 
