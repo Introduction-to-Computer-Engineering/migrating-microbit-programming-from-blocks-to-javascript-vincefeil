@@ -94,7 +94,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
-**[Algorithms [file](FidgetCube.js)**]
+**[Algorithms [file](Algorithms/FidgetCube.js)**]
 
 ### v0.3
 
