@@ -94,7 +94,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
-**[Algorithms [file](FidgetCube.jsx)**]
+**[Algorithms [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/Algorithms/FidgetCub.jsx)**]
 
 ### v0.3
 
