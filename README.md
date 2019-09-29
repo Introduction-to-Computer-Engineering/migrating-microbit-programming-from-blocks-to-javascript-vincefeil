@@ -147,4 +147,15 @@ _**Note:** Add your project designs below._
 
 ### Final project
 
+#### Goal
+
+**[your short description]**
+
+#### Design process
+
+**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+
+#### JS Constructs & objects
+
+**[which JavaScript features you used in the implementation of your project idea]**
 **[etc.]**
