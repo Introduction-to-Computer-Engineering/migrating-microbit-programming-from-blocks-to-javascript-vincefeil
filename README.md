@@ -131,7 +131,7 @@ _**Note:** Add your project designs below._
 
 ### Midterm project
 
-_**Note:** Add your project designs below._
+**[Mid Term Project [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/MinniProject/MinniProject.jsx)]**
 
 #### Goal
 
