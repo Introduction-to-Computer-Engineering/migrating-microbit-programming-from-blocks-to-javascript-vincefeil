@@ -149,6 +149,8 @@ _**Note:** Add your project designs below._
 
 ### Final project
 
+**[Final Project [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/FinalProject/ThermostatPlus.jsx)]**
+
 #### Goal
 
 **To make a Thermostat for a heat chamber that will also moniter sensors attached to critical components on a test unit**
