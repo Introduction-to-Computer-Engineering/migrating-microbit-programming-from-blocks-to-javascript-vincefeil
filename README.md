@@ -116,6 +116,9 @@ _**Note:** Add your program descriptions below._
 
 **[Booleans [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/BooleansProject/BooleansProject.jsx)**]
 
+### v0.8
+**[Binary [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/BinaryProject/binaryProject.jsx)**]
+
 
 ## Designs
 
