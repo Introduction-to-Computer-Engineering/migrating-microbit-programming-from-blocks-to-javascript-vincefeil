@@ -155,9 +155,11 @@ _**Note:** Add your project designs below._
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+**Designed is to solve the problem of having to moniter a heat chamber with out letting the heat out. By making the heat control and monitering posible from outside the chamber, the chamber does not need to be oppened until testing is complete.**
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
-**[etc.]**
+**See Final Project ReadMe**
+
+**[Final Project ReadMe [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/FinalProject/FinalProjectReadMe.md)]**
+
