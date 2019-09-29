@@ -135,11 +135,13 @@ _**Note:** Add your project designs below._
 
 #### Goal
 
-**[your short description]**
+**[Display three road signs, selectable by pressing bttons.]**
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+**[Design was based on signs I have seen around the city. See ReadMe file for disrciption and operating instructions.]**
+
+**[]
 
 #### JS Constructs & objects
 
