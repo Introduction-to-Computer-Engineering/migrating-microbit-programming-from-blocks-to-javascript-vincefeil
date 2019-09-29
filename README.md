@@ -123,7 +123,7 @@ _**Note:** Add your program descriptions below._
 **[Radio [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/RadioProject/RadioProject.jsx)**]
 
 ###v0.10
-**[]**
+**[Arrays [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/ArraysProject/ArrayProject.jsx)**]
 
 ## Designs
 
