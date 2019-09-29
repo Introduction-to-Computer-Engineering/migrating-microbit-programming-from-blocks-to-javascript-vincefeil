@@ -114,8 +114,16 @@ _**Note:** Add your program descriptions below._
 
 ### v0.7
 
-**[etc.]**
+**[Booleans [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/BooleansProject/BooleansProject.jsx)**]
 
+### v0.8
+**[Binary [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/BinaryProject/binaryProject.jsx)**]
+
+### v0.9
+**[Radio [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/RadioProject/RadioProject.jsx)**]
+
+### v0.10
+**[Arrays [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/ArraysProject/ArrayProject.jsx)**]
 
 ## Designs
 
@@ -123,20 +131,37 @@ _**Note:** Add your project designs below._
 
 ### Midterm project
 
-_**Note:** Add your project designs below._
+**[Mid Term Project [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/MinniProject/MinniProject.jsx)]**
 
 #### Goal
 
-**[your short description]**
+**[Display three road signs, selectable by pressing bttons.]**
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+**[Design was based on signs I have seen around the city. See ReadMe file for disrciption and operating instructions.]**
+
+**[Midterm ReadMe [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/MinniProject/ReadMe%20Mini-Project.md)]**
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+**See Midterm ReadMe**
 
 ### Final project
 
-**[etc.]**
+**[Final Project [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/FinalProject/ThermostatPlus.jsx)]**
+
+#### Goal
+
+**To make a Thermostat for a heat chamber that will also moniter sensors attached to critical components on a test unit**
+
+#### Design process
+
+**Designed is to solve the problem of having to moniter a heat chamber with out letting the heat out. By making the heat control and monitering posible from outside the chamber, the chamber does not need to be oppened until testing is complete.**
+
+#### JS Constructs & objects
+
+**See Final Project ReadMe**
+
+**[Final Project ReadMe [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/FinalProject/FinalProjectReadMe.md)]**
+
