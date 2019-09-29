@@ -141,17 +141,17 @@ _**Note:** Add your project designs below._
 
 **[Design was based on signs I have seen around the city. See ReadMe file for disrciption and operating instructions.]**
 
-**[]
+**[Midterm ReadMe [file](https://github.com/Introduction-to-Computer-Engineering/migrating-microbit-programming-from-blocks-to-javascript-vincefeil/blob/master/MinniProject/ReadMe%20Mini-Project.md)]**
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+**See Midterm ReadMe**
 
 ### Final project
 
 #### Goal
 
-**[your short description]**
+**To make a Thermostat for a heat chamber that will also moniter sensors attached to critical components on a test unit**
 
 #### Design process
 
